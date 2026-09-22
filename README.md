@@ -5,7 +5,7 @@
 
 </div>
 
-> Third-year IT student at Saint Louis University, Baguio City.
+> Fourth-year IT student at Saint Louis University, Baguio City.
 > Full-stack apps and computer-vision tooling. Currently looking for an OJT placement.
 
 <!-- ══════════════ STATS ══════════════ -->
