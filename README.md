@@ -45,6 +45,13 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
+**AI, RAG & Local LLMs**
+
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-7A5AF8?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20Models-111111?style=flat-square)
+![Local LLMs](https://img.shields.io/badge/Local_LLMs-Inference-2F855A?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-2563EB?style=flat-square)
+
 **Computer Vision & Mobile**
 
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square)
@@ -57,6 +64,7 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Google APIs](https://img.shields.io/badge/Google_APIs-4285F4?style=flat-square&logo=google&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3C873A?style=flat-square)
@@ -73,15 +81,15 @@
 | [**SLUorgdesk**](https://github.com/S-Tiers-Repo/SLUorgdesk) | Student organization management desk combining Node.js and PHP services with authentication, organization workflows, admin dashboards, analytics, file uploads, and Docker-based development. | JavaScript · Node.js · PHP · Docker |
 | [**Techno_MVP**](https://github.com/AguilanJec/Techno_MVP) | Cross-platform React Native / Expo prototype using TypeScript and file-based routing for Android, iOS, and web targets. | TypeScript · React Native · Expo |
 | [**PWDe**](https://github.com/AguilanJec/PWDe) | Android accessibility application that lets people with disabilities play mobile esports hands-free using head movement and facial gestures. Fork of `google/project-gameface`. | Java · Android · MediaPipe |
-| **Google Workspace MCP** | Local streamable-HTTP integration connecting VS Code with Google Docs and Drive through OAuth 2.0, VS Code tasks, loopback callbacks, and protected refresh-token storage. | Python · MCP · OAuth 2.0 · Google APIs |
 
 ---
 
 ## Engineering Focus
 
 - Building full-stack features across frontend, backend, data, and AI service boundaries
+- Developing retrieval-augmented generation workflows and experimenting with local LLM inference using Ollama
 - Applying computer vision to accessibility-focused interaction design
-- Integrating APIs and developer tools with secure OAuth configuration
+- Integrating APIs and developer tools with secure OAuth configuration and MCP
 - Working with Git branches, pull requests, Conventional Commits, and readable documentation
 
 ---
