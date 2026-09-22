@@ -5,9 +5,9 @@
 
 </div>
 
-> Fourth-year IT student at Saint Louis University, Baguio City.
-> Full-stack applications, AI/computer vision, mobile development, and developer tooling.
-> Currently looking for an OJT placement.
+>Fourth-year IT student at Saint Louis University, Baguio City, building full-stack systems, AI workflows, accessible mobile applications, and developer tools.
+>I work across TypeScript, React, NestJS, Python, Java/Android, and PHP, with hands-on experience in computer vision, RAG, local LLMs, MCP integrations, OAuth, Google APIs, and cloud deployment.
+>Currently seeking an OJT opportunity where I can contribute to real frontend, backend, AI, and developer-tooling projects.
 
 <div align="center">
 
