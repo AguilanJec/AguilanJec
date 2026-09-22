@@ -1,104 +1,92 @@
-<!-- ══════════════ HEADER ══════════════ -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=Jecquar+Aguilan;Full-stack+%2B+AI+%2B+mobile;Building+useful+software)
+# Jecquar Aguilan
+
+### Full-stack development, AI, computer vision, and mobile apps
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AguilanJec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jecquar-ravent-aguilan-a82170430/)
+[![Open to OJT](https://img.shields.io/badge/Open_to-OJT%20%2F%20Internship-2F855A?style=flat-square)](https://github.com/AguilanJec)
 
 </div>
 
-> Fourth-year IT student at Saint Louis University, Baguio City.
-> Full-stack applications, AI/computer vision, mobile development, and developer tooling.
-> Currently looking for an OJT placement.
-
-<!-- ══════════════ STATS ══════════════ -->
-<div align="center">
-
-![Streak Stats](https://streak-stats.demolab.com?user=AguilanJec&theme=tokyonight&hide_border=true)
-
-![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AguilanJec&theme=tokyonight)
-
-![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AguilanJec&theme=tokyonight)
-
-![Visitors](https://komarev.com/ghpvc/?username=AguilanJec&style=flat-square&color=7AA2F7&label=Profile+Views)
-
-</div>
+> Fourth-year IT student at Saint Louis University, Baguio City. I build practical software across web, backend, AI, computer vision, and mobile platforms, and I enjoy turning unfamiliar codebases into working features.
 
 ---
 
-## Tech Stack
+## What I Work On
+
+| Area | Focus |
+| :--- | :--- |
+| **Full-stack systems** | React and TypeScript frontends, Node.js / NestJS services, Prisma, PostgreSQL, and PHP backends |
+| **AI applications** | Python services, RAG workflows, local LLM experimentation, Ollama, and MCP integrations |
+| **Computer vision** | MediaPipe face landmarks, BlazeFace, FaceMesh, Blendshape V2, and real-time gesture input |
+| **Mobile and accessibility** | Java / Android and React Native / Expo applications designed around real user needs |
+| **Engineering practice** | Git branching, pull requests, Conventional Commits, Docker, OAuth 2.0, API integration, and documentation |
+
+## Selected Skills
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+`TypeScript` `JavaScript` `Python` `Java` `PHP` `HTML` `CSS`
 
-**Frameworks & Libraries**
+**Frontend and mobile**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+`React` `React Native` `Expo` `Android` `MediaPipe`
 
-**AI, RAG & Local LLMs**
+**Backend and data**
 
-![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-7A5AF8?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-Local%20Models-111111?style=flat-square)
-![Local LLMs](https://img.shields.io/badge/Local_LLMs-Inference-2F855A?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-2563EB?style=flat-square)
+`Node.js` `NestJS` `Prisma` `PostgreSQL` `REST APIs`
 
-**Computer Vision & Mobile**
+**AI and developer tools**
 
-![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square)
-![BlazeFace](https://img.shields.io/badge/BlazeFace-4285F4?style=flat-square)
-![FaceMesh](https://img.shields.io/badge/FaceMesh-4285F4?style=flat-square)
-![Blendshape V2](https://img.shields.io/badge/Blendshape_V2-4285F4?style=flat-square)
-![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
+`RAG` `Ollama` `Local LLMs` `MCP` `OAuth 2.0` `Google APIs`
 
-**Infrastructure & Integration**
+**Infrastructure and workflow**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Google APIs](https://img.shields.io/badge/Google_APIs-4285F4?style=flat-square&logo=google&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3C873A?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+`Docker` `Google Cloud` `Git` `GitHub` `VS Code` `Jest`
 
 ---
 
-## Projects
+## Featured Projects
 
-| Name | What it does | Stack |
-| :--- | :--- | :--- |
-| [**Course4Ward**](https://github.com/SLU-STiers/Course4Ward) | Hospital course-in-the-ward system with a TypeScript frontend, NestJS + Prisma API, and Python AI service. My work includes batched per-admission-day order summarization, role-to-route mapping, and security review findings for the team backlog. | TypeScript · NestJS · Prisma · React · Python |
-| [**SLUorgdesk**](https://github.com/S-Tiers-Repo/SLUorgdesk) | Student organization management desk combining Node.js and PHP services with authentication, organization workflows, admin dashboards, analytics, file uploads, and Docker-based development. | JavaScript · Node.js · PHP · Docker |
-| [**Techno_MVP**](https://github.com/AguilanJec/Techno_MVP) | Cross-platform React Native / Expo prototype using TypeScript and file-based routing for Android, iOS, and web targets. | TypeScript · React Native · Expo |
-| [**PWDe**](https://github.com/AguilanJec/PWDe) | Android accessibility application that lets people with disabilities play mobile esports hands-free using head movement and facial gestures. Fork of `google/project-gameface`. | Java · Android · MediaPipe |
+### [Course4Ward](https://github.com/SLU-STiers/Course4Ward)
+A hospital course-in-the-ward system built by a team, with a TypeScript frontend, NestJS + Prisma API, and Python AI service. My work includes batched per-admission-day order summarization, role-to-route mapping, and security review findings for the team backlog.
+
+`TypeScript` `React` `NestJS` `Prisma` `Python`
+
+### [SLUorgdesk](https://github.com/S-Tiers-Repo/SLUorgdesk)
+A student organization management desk combining Node.js and PHP services with authentication, organization workflows, admin dashboards, analytics, file uploads, and Docker-based development.
+
+`JavaScript` `Node.js` `PHP` `Docker`
+
+### [Techno_MVP](https://github.com/AguilanJec/Techno_MVP)
+A cross-platform React Native / Expo prototype using TypeScript and file-based routing for Android, iOS, and web targets.
+
+`TypeScript` `React Native` `Expo`
+
+### [PWDe](https://github.com/AguilanJec/PWDe)
+An Android accessibility application that lets people with disabilities play mobile esports hands-free using head movement and facial gestures. A fork of Google's Project Gameface.
+
+`Java` `Android` `MediaPipe` `Computer Vision`
 
 ---
 
-## Engineering Focus
+## Current Focus
 
-- Building full-stack features across frontend, backend, data, and AI service boundaries
-- Developing retrieval-augmented generation workflows and experimenting with local LLM inference using Ollama
-- Applying computer vision to accessibility-focused interaction design
-- Integrating APIs and developer tools with secure OAuth configuration and MCP
-- Working with Git branches, pull requests, Conventional Commits, and readable documentation
+- Building retrieval-augmented generation workflows and experimenting with local LLM inference through Ollama
+- Designing accessible interfaces powered by computer vision and alternative input methods
+- Connecting applications and developer tools through secure APIs, OAuth, and MCP
+- Growing through an OJT role where I can contribute to a real production codebase
 
 ---
-
-## Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AguilanJec)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jecquar-ravent-aguilan-a82170430/)
+![GitHub streak](https://streak-stats.demolab.com?user=AguilanJec&theme=tokyonight&hide_border=true)
+
+![GitHub activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AguilanJec&theme=tokyonight)
+
+![Profile views](https://komarev.com/ghpvc/?username=AguilanJec&style=flat-square&color=7AA2F7&label=Profile+Views)
 
 </div>
