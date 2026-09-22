@@ -9,19 +9,6 @@
 > Full-stack applications, AI/computer vision, mobile development, and developer tooling.
 > Currently looking for an OJT placement.
 
-<!-- ══════════════ STATS ══════════════ -->
-<div align="center">
-
-![Streak Stats](https://streak-stats.demolab.com?user=AguilanJec&theme=tokyonight&hide_border=true)
-
-![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AguilanJec&theme=tokyonight)
-
-![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AguilanJec&theme=tokyonight)
-
-![Visitors](https://komarev.com/ghpvc/?username=AguilanJec&style=flat-square&color=7AA2F7&label=Profile+Views)
-
-</div>
-
 ---
 
 ## Tech Stack
@@ -91,6 +78,21 @@
 - Applying computer vision to accessibility-focused interaction design
 - Integrating APIs and developer tools with secure OAuth configuration and MCP
 - Working with Git branches, pull requests, Conventional Commits, and readable documentation
+
+---
+
+<!-- ══════════════ STATS ══════════════ -->
+<div align="center">
+
+![Streak Stats](https://streak-stats.demolab.com?user=AguilanJec&theme=tokyonight&hide_border=true)
+
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AguilanJec&theme=tokyonight)
+
+![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AguilanJec&theme=tokyonight)
+
+![Visitors](https://komarev.com/ghpvc/?username=AguilanJec&style=flat-square&color=7AA2F7&label=Profile+Views)
+
+</div>
 
 ---
 
