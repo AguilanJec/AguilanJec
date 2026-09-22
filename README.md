@@ -9,6 +9,13 @@
 > Full-stack applications, AI/computer vision, mobile development, and developer tooling.
 > Currently looking for an OJT placement.
 
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AguilanJec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jecquar-ravent-aguilan-a82170430/)
+
+</div>
+
 ---
 
 ## Tech Stack
@@ -91,16 +98,5 @@
 ![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AguilanJec&theme=tokyonight)
 
 ![Visitors](https://komarev.com/ghpvc/?username=AguilanJec&style=flat-square&color=7AA2F7&label=Profile+Views)
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AguilanJec)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jecquar-ravent-aguilan-a82170430/)
 
 </div>
